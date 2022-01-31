@@ -1,0 +1,259 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: royalblue;
+}
+.one{
+    background-color: white;
+    border: 6px solid rgb(126, 30, 30);
+    width: 435px;
+    height: 130px;
+    margin-left: 37%;
+    margin-top: 2%;
+    border-radius: 10px;
+    box-shadow:10px 10px greenyellow;
+}
+#one{
+    text-align: center;
+    color: rgb(231, 41, 41);
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 600;
+    text-shadow:1px 1px rgb(228, 61, 61);
+     
+}
+.two{
+    border:7px solid green;
+    width: 98%;
+    height: 700px;
+}
+.seven{
+    display: flex;
+    
+}
+.three{
+    border: 5px solid red;
+    border-radius: 10px;
+    position: relative;
+    width:250px;
+    height: 250px;
+    left: 10px;
+    top: 5px;
+    background-color: white;
+    text-shadow: purple 2px 2px;
+    box-shadow: black 5px 5px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    line-height: 2;
+}
+.four{
+    border: 5px solid red;
+    border-radius: 10px;
+    position: relative;
+    left:55%;
+    top: 5px;
+    width:250px;
+    height: 250px;
+    background-color: white;
+    text-shadow: purple 2px 2px;
+    box-shadow: black 5px 5px;
+   
+}
+.five{
+    border: 5px solid red;
+    position: relative;
+    top:420px;
+    right: 505px;
+    width:250px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: white;
+    text-shadow: purple 2px 2px;
+    box-shadow: black 3px 3px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    
+}
+.six{
+    border: 5px solid red;
+    position: relative;
+    top: 410px;
+    left:220px;
+    width:250px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: white;
+    text-shadow: purple 2px 2px;
+    box-shadow: black 5px 5px;
+    text-align: center;
+    
+    
+    
+}
+.f1{
+    font-size: 20px;
+    text-shadow: purple 1px 1px;
+    margin-top: 50px;
+}
+.s1{
+    font-size: 20px;
+    text-shadow: purple 1px 1px;
+    
+
+}
+.s2{
+    background-color: chocolate;
+    border: 1px solid coral;
+    border-radius: 10%;
+    text-align: center;
+    width: 90px;
+    height: 18px;
+    text-shadow: purple 1px 1px;
+
+}
+span{
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+    text-shadow: purple 1px 1px;
+
+
+}
+.eight{
+
+    border: black;
+    border-style: solid;
+    border-width: 0px 2px 2px 2px ;
+    width: 180px;
+    height: 183px;
+    margin-top: 32px;
+    margin-left: 34px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 90%;
+ 
+}
+.mid{
+  width: 500px;
+  height: 100px;
+  position: fixed;
+  background: yellowgreen;
+  margin-top: -20%;
+  margin-left: 30%;
+  border-width: 8px;
+  border-style: solid;
+  border-color: red;
+  border-image: initial;
+  border-radius: 10px;
+
+}
+.left-text {
+    position: relative;
+    font-style: italic;
+    font-size: 25px;
+    color: maroon;
+    font-weight: bolder;
+    margin-top: 25px;
+  }
+  
+  .right-text {
+    position: absolute;
+    font-style: italic;
+    font-size: 25px;
+    color: maroon;
+    font-weight: bold;
+    margin-left: 60%;
+    margin-top: -15%;
+  }
+  .last-box {
+    width: 750px;
+    height: 650px;
+    background-color: green;
+    margin-top: 100px;
+    margin-left: 300px;
+    border-width: 6px;
+    border-style: solid;
+    border-color: purple;
+    border-image: initial;
+  }
+  .heading {
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .fruits-box {
+    width: 350px;
+    height: 300px;
+    margin-left: 5px;
+    background-color: khaki;
+    border: royalblue 2px solid;
+  }
+  
+  .fruit {
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  .fruits-name {
+    font-style: italic;
+    text-align: center;
+    line-height: 2;
+    font-weight: 600;
+  }
+  
+  .veg-box {
+    width: 350px;
+    height: 300px;
+    margin-top: -303px;
+    margin-left: 390px;
+    background-color: khaki;
+    border: solid 2px royalblue;
+  }
+  
+  .vegetables {
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+  }
+  .veg-name {
+    font-style: italic;
+    text-align: center;
+    line-height: 2;
+    font-weight: 600;
+  }
+  .others{
+      margin-top: 15px;
+      background-color: khaki;
+      width: 755px;
+      height:220px;
+      border: royalblue solid 2px;
+      border-right: hidden;
+  }
+  .mix-name{
+    font-style: italic;
+    text-align: center;
+    line-height: 2;
+    font-weight: 500;
+
+  }
+  #hrr{
+      margin-top: -20px;
+  }
+  .f1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .input{
+    width: 100px;
+    border-radius: 5px;
+  }
